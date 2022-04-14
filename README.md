@@ -1,4 +1,4 @@
-# New Command File clonig Old ok ids 2.0 
+# ✔️New Command File clonig Old ok ids 2.0 ⚠️
 
 # pip install requests
 
@@ -19,3 +19,9 @@
 # cd pow3er
 
 # python hedi-pow3r.py
+
+
+NOTE THIS COMMAND PAYED , FIRST TAKE APROVAL FROM ADMIN BRO 😊 
+
+
+
