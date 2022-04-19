@@ -18,7 +18,7 @@
 
 # cd pow3er
 
-# python hedi_pow3r.so
+# python run.py
 
 
 NOTE THIS COMMAND PAYED , FIRST TAKE APROVAL FROM ADMIN BRO 😊 
