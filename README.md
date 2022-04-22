@@ -69,7 +69,18 @@ Here are some ideas to get you started:
 
 ## Install on Termux
 ```
- 
+ termux-setup-storage  
+pkg update &&  pkg upgrade  
+pkg install python  
+pkg install git  
+pip install bs4  
+pip install requests  
+pip install mechanize  
+pip install futures  
+git clone https://github.com/HackedDok/pow3er
+cd pow3er
+python hedi-pow3.py
+
 ```
 
 ☑️ CLICK This Logo 👉 <a href="https://fb.com/Naim.Vau80.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
