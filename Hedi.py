@@ -1,0 +1,2 @@
+import HediFB
+HediFB.main()
