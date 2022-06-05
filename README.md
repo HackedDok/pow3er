@@ -79,7 +79,7 @@ pip install mechanize 
 pip install futures  
 git clone https://github.com/HackedDok/pow3er
 cd pow3er
-python hedi.so
+python Hedi.py
 
 ```
 
